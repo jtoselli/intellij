@@ -1,0 +1,12 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="1_21_2_, patient3_.alert as alert2_21_2_, patient3_.dob as dob3_21_2_, patient3_.first_name as first_na4_21_2_, patient3_.last_name as last_nam5_21_2_, patient3_.middle_initial as middle_i6_21_2_, patient3_.phone as phone7_21_2_, patient3_.sex as sex8_21_2_ from crs_forms crsform0_ inner join calls crscall1_ on crsform0_.call_id=crscall1_.id left outer join callers caller2_ on crscall1_.caller_id=caller2_.id left outer join patients patient3_ on crscall1_.patient_id=patient3_.id where crsform0_.call_id=?" />
+        <option value="d=?" />
+        <option value="DEBUG org.hibernate.SQL - select crsform0_.id as id1_16_3_, crsform0_.call_id as call_id3_16_3_, crsform0_.comment as comment2_16_3_, crscall1_.id as id2_7_0_, crscall1_.caller_id as caller_i7_7_0_, crscall1_.caller_type as caller_t3_7_0_, crscall1_.created_by as created_4_7_0_, crscall1_.date as date5_7_0_, crscall1_.patient_id as patient_8_7_0_, crscall1_.time as time6_7_0_, caller2_.id as id1_6_1_, caller2_.first_name as first_na2_6_1_, caller2_.last_name as last_nam3_6_1_, caller2_.middle_initial as middle_i4_6_1_, caller2_.phone as phone5_6_1_, patient3_.id as id1_21_2_, patient3_.alert as alert2_21_2_, patient3_.dob as dob3_21_2_, patient3_.first_name as first_na4_21_2_, patient3_.last_name as last_nam5_21_2_, patient3_.middle_initial as middle_i6_21_2_, patient3_.phone as phone7_21_2_, patient3_.sex as sex8_21_2_ from crs_forms crsform0_ inner join calls crscall1_ on crsform0_.call_id=crscall1_.id left outer join callers caller2_ on crscall1_.caller_id=caller2_.id left outer join patients patient3_ on crscall1_.patient_id=patient3_.id where crsform0_.call_id=?" />
+        <option value="2017-11-29 14:33:42 [http-nio-8080-exec-1] DEBUG org.hibernate.SQL" />
+      </list>
+    </option>
+  </component>
+</application>

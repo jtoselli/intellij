@@ -1,0 +1,8 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="USE_INSTANCEOF_ON_EQUALS_PARAMETER" value="true" />
+  </component>
+  <component name="XmlSettings">
+    <option name="SHOW_XML_ADD_IMPORT_HINTS" value="false" />
+  </component>
+</application>

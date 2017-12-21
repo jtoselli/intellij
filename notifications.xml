@@ -1,0 +1,8 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Power Save Mode" shouldLog="false" />
+    <notification groupId="Remote Desktop" displayType="NONE" shouldLog="false" />
+    <notification groupId="System Health (minor)" displayType="NONE" shouldLog="false" />
+    <notification groupId="System Messages" shouldLog="false" />
+  </component>
+</application>
