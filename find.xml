@@ -7,30 +7,5 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.jsp</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.ht</mask>
-      <mask>*.html</mask>
-      <mask>*.sq</mask>
-      <mask>*.sql</mask>
-      <mask>*.s</mask>
-      <mask>*.x</mask>
-      <mask>*.xml</mask>
-      <mask>*.xm</mask>
-      <mask>*D</mask>
-      <mask>*DTO</mask>
-      <mask>*DTO*</mask>
-      <mask>*.</mask>
-      <mask>*.ja</mask>
-      <mask>*.jav</mask>
-      <mask>*.java</mask>
-      <mask>*</mask>
-    </recentFileMasks>
   </component>
 </application>
