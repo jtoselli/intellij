@@ -1,4 +1,7 @@
 <code_scheme name="Default" version="173">
+  <JavaCodeStyleSettings>
+    <option name="USE_SINGLE_CLASS_IMPORTS" value="false" />
+  </JavaCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="BINARY_OPERATION_WRAP" value="1" />
     <option name="BINARY_OPERATION_SIGN_ON_NEXT_LINE" value="true" />
